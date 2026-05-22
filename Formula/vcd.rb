@@ -1,8 +1,8 @@
 class Vcd < Formula
   desc "Open Git projects inside local Docker containers for vibe coding workflows"
   homepage "https://github.com/marlinl/vcd"
-  url "https://github.com/marlinl/vcd/releases/download/v0.1.0/vcd-aarch64-apple-darwin.tar.gz"
-  sha256 "59b2247e42b7b61383352677e8a0b1d28de534a4f67ffeffc98fddea27fc6410"
+  url "https://github.com/marlinl/vcd/releases/download/v0.1.1/vcd-aarch64-apple-darwin.tar.gz"
+  sha256 "165d0b29a898cac3cd048c476436ec0d4a29967bf9726cd2d967e9d3d5806f26"
   license "Apache-2.0"
   head "https://github.com/marlinl/vcd.git", branch: "master"
 
